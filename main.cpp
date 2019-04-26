@@ -16,6 +16,7 @@ int main() {
 	for(int x = 0; x < 10; ++x){
 		cout << "Key: " << x << " element: " << *t.find(x) << endl;
 	}
+	cout << "Size: " << t.size() << endl;
 	t.erase(3);
 	cout << endl;
 	for(int x = 0; x < 10; ++x){
