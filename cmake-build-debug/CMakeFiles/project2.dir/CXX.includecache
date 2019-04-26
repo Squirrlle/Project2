@@ -6,19 +6,23 @@
 
 #IncludeRegexTransform: 
 
-/home/henry/CLionProjects/project2/HashTable.cpp
+/home/henry/Documents/School/Algo/project2/HashTable.cpp
 HashTable.h
-/home/henry/CLionProjects/project2/HashTable.h
-
-/home/henry/CLionProjects/project2/HashTable.h
+/home/henry/Documents/School/Algo/project2/HashTable.h
 vector
 -
 iostream
 -
 
-/home/henry/CLionProjects/project2/main.cpp
+/home/henry/Documents/School/Algo/project2/HashTable.h
+iostream
+-
+vector
+-
+
+/home/henry/Documents/School/Algo/project2/main.cpp
 iostream
 -
 HashTable.cpp
-/home/henry/CLionProjects/project2/HashTable.cpp
+/home/henry/Documents/School/Algo/project2/HashTable.cpp
 
